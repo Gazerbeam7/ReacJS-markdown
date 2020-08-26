@@ -1,0 +1,2 @@
+export const sampleText =
+  '# Titre\n## Sous-Titre \n### Titre plus profond\n \nLes paragraphes sont séparés\npar une ligne vide.\n\nLaissé deux espaces à la fin d\'une ligne pour  \naller à la ligne.\n\nAttributs *italique*, **gras**, \n`monospace`, ~~rayé~~.\n\nListe à puces:\n\n  * voiture\n  * camion\n  * vélo\n\nListe avec numéros:\n\n  1. voiture\n  2. bite\n  3. vélo\n\n *[Théo Charron](https://github.com/TheoCharron)* \n\n Lien automatique : https://github.com/TheoCharron \n\n```\n console.log("hello"); \n``` ';
